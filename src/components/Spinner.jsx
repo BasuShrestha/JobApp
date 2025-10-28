@@ -1,7 +1,5 @@
 import { ClipLoader } from "react-spinners";
 
-import React from "react";
-
 const override = {
   display: "block",
   margin: "100px auto",
